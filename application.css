@@ -1,0 +1,50 @@
+.PaginaInicial{
+
+}
+.Sobre{
+
+}
+.Contato{
+   
+}
+
+
+
+.barra {
+   background-color:	#353535;
+   position:fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   height: 35px;
+}
+body {
+   width: 100;
+   max-width: 500px;
+   margin: 500px;
+background: url(/home/elianderson/Downloads/bg-rock.jpeg);
+background-size: 2577px;
+background-position: center;
+font-family: 'Lato';
+line-height: 1.7;
+color: rgb(226, 231, 236);
+font-size:125%;
+}
+main{
+   width: 350px;
+   max-width: 500px;
+   background: #ff000065;
+   padding: 10px 40px;
+   border-radius: 10px;
+   background-attachment:inherit;
+}
+
+
+h1{
+font-size: 60px;
+font-family: 'MedievalSharp';
+}
+h3{
+ margin-left: 200px;
+}
+

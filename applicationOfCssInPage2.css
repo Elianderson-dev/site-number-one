@@ -1,0 +1,24 @@
+.barraTab {
+  background-color: black;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 50px;
+}
+.voltar {
+   width: 5px;
+   height: 5px;
+}
+
+body {
+    background: rgb(65, 23, 23);
+    height: 700px;
+}
+
+h1 {
+  width: 50%;
+  height: 50%;
+  margin: 10%;
+  margin-left: 40%;
+}
